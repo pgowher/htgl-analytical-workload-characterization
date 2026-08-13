@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated paper."
-title: "HTGL Analytical Workload Characterization"
+title: "Modeling Coordination Service Workloads in Federated Energy-Data Ecosystems: A Demand-Side Analysis"
 type: software
 authors:
   - family-names: "Parry"
