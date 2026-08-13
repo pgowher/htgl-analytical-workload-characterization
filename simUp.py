@@ -2,14 +2,10 @@
 # -*- coding: utf-8 -*-
 """Analytical workload characterization for the proposed HTGL architecture.
 
-This program characterizes the *offered coordination workload* implied by the
-HTGL design.  It is deliberately not an HTGL implementation or a blockchain
-benchmark.  In particular, it does not model consensus execution, validator
-hardware, network propagation, transaction latency/finality, cryptographic
-cost, Proof-after-Erasure, or legal compliance.
+This program characterizes the offered coordination workload implied by the
+HTGL design.  
 
 The study has two complementary layers:
-
 1. Closed-form analysis of expected daily event counts and average offered TPS.
 2. Reproducible component-wise Poisson sampling used only to verify the
    analytical calculations and characterize day-to-day count variation.
