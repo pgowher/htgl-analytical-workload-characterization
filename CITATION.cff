@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "HTGL Analytical Workload Characterization"
+type: software
+authors:
+  - family-names: "Parry"
+    given-names: "Gowher Majeed"
+  - family-names: "Nahar"
+    given-names: "Ankur"
+repository-code: "https://github.com/<github-username>/htgl-analytical-workload-characterization"
+abstract: "Reproducibility package for an analytical demand-side workload characterization of HTGL coordination services in federated energy-data ecosystems."
+keywords:
+  - smart grid
+  - distributed systems
+  - blockchain
+  - workload characterization
+  - reproducibility
+  - federated energy-data ecosystems
+license: "SEE LICENSE IN LICENSE_SELECTION.md"
+preferred-citation:
+  type: article
+  title: "Modeling Coordination Service Workloads in Federated Energy-Data Ecosystems: A Demand-Side Analysis"
+  authors:
+    - family-names: "Parry"
+      given-names: "Gowher Majeed"
+    - family-names: "Nahar"
+      given-names: "Ankur"
+  journal: "IEEE Transactions on Network and Service Management"
+  status: "submitted"
+  note: "Replace with final publication metadata after acceptance."

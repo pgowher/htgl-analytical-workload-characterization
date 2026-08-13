@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv-htgl/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local caches
+.matplotlib_cache/
+
+# Generated analytical outputs
+htgl_analytical_data/
+analytical_artifacts/
+htgl_analytical_figures/
+
+# Legacy or temporary outputs
+tmp/
+temp/
+*.log
