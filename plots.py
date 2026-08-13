@@ -1,19 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Publication figures for analytical HTGL workload characterization.
-
-This script consumes the committed release contract produced by ``simUp.py`` version 7 and
-visualizes only the offered coordination workload implied by the proposed HTGL
-architecture.  The figures do not represent measurements of an implemented
-HTGL system, ledger throughput, validators, networking, latency, finality,
-cryptographic execution, Proof-after-Erasure, security, or legal compliance.
-
 Default outputs
 ---------------
 * Input:  ``htgl_analytical_data/``
 * Output: ``htgl_analytical_figures/``
 * Formats: vector PDF and high-resolution PNG
-* Primary paper: five non-redundant analytical figures.
 * Reproducibility supplement: verification and boundary diagnostics.
 
 Examples
